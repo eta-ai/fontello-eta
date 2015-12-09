@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'eta';
-  src: url('../font/eta.eot?86846367');
-  src: url('../font/eta.eot?86846367#iefix') format('embedded-opentype'),
-       url('../font/eta.woff?86846367') format('woff'),
-       url('../font/eta.ttf?86846367') format('truetype'),
-       url('../font/eta.svg?86846367#eta') format('svg');
+  src: url('../font/eta.eot?43417982');
+  src: url('../font/eta.eot?43417982#iefix') format('embedded-opentype'),
+       url('../font/eta.woff?43417982') format('woff'),
+       url('../font/eta.ttf?43417982') format('truetype'),
+       url('../font/eta.svg?43417982#eta') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'eta';
-    src: url('../font/eta.svg?86846367#eta') format('svg');
+    src: url('../font/eta.svg?43417982#eta') format('svg');
   }
 }
 */

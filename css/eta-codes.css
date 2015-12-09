@@ -9,4 +9,10 @@
 .icon-landing:before { content: '\e807'; } /* '' */
 .icon-takeoff:before { content: '\e808'; } /* '' */
 .icon-seat:before { content: '\e809'; } /* '' */
-.icon-loyalty:before { content: '\e80a'; } /* '' */
+.icon-logo:before { content: '\e80a'; } /* '' */
+.icon-swimming:before { content: '\e80b'; } /* '' */
+.icon-proximity:before { content: '\e80c'; } /* '' */
+.icon-business-center:before { content: '\e80d'; } /* '' */
+.icon-loyalty:before { content: '\e80e'; } /* '' */
+.icon-gym:before { content: '\e80f'; } /* '' */
+.icon-view:before { content: '\e810'; } /* '' */

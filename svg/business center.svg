@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>business center</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Blank-Slate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-158.000000, -5.000000)" fill="#FFFFFF">
+            <g id="business-center" sketch:type="MSLayerGroup" transform="translate(158.000000, 5.000000)">
+                <g id="Group" transform="translate(0.369231, 0.000000)" sketch:type="MSShapeGroup">
+                    <path d="M15.4202324,4.16631413 L14.0935096,4.16631413 L14.0935096,5.249895 L13.8495192,5.249895 L13.8495192,0.4 L6.18064904,0.4 L6.18064904,5.249895 L5.93705929,5.249895 L5.93705929,4.16631413 L4.6109375,4.16631413 L4.6109375,6.33347587 L15.4202324,6.33347587 L15.4202324,4.16631413 L15.4202324,4.16631413 Z M6.82047276,0.996830096 L13.2102965,0.996830096 L13.2102965,5.249895 L6.82047276,5.249895 L6.82047276,0.996830096 L6.82047276,0.996830096 Z" id="Shape"></path>
+                    <path d="M17.2327324,6.63369221 L2.79803686,6.63369221 C1.47932692,6.63369221 0.4,7.64121827 0.4,8.87290587 L0.4,14.7725574 C0.4,16.0038447 1.47932692,17.011771 2.79803686,17.011771 L4.36153846,17.011771 L4.36153846,12.4640938 L15.6694311,12.4640938 L15.6694311,17.0115709 L17.2329327,17.0115709 C18.5514423,17.0115709 19.6307692,16.0038447 19.6307692,14.7725574 L19.6307692,8.87290587 C19.6307692,7.64121827 18.5514423,6.63369221 17.2327324,6.63369221 L17.2327324,6.63369221 Z" id="Shape"></path>
+                    <path d="M4.90340545,19.6138462 L15.1271635,19.6138462 L15.1271635,12.8073412 L4.90340545,12.8073412 L4.90340545,19.6138462 L4.90340545,19.6138462 Z M5.50596955,13.3699466 L14.5245994,13.3699466 L14.5245994,19.0510406 L5.50596955,19.0510406 L5.50596955,13.3699466 L5.50596955,13.3699466 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" x="7.54463141" y="1.69773519" width="4.94150641" height="0.288407837"></rect>
+                    <rect id="Rectangle-path" x="7.54463141" y="2.94903692" width="4.94150641" height="0.288407837"></rect>
+                    <rect id="Rectangle-path" x="7.54463141" y="4.20033865" width="4.94150641" height="0.288007548"></rect>
+                    <rect id="Rectangle-path" x="6.63717949" y="14.3050204" width="6.75661058" height="0.39408399"></rect>
+                    <rect id="Rectangle-path" x="6.63717949" y="16.0136517" width="6.75661058" height="0.393683702"></rect>
+                    <rect id="Rectangle-path" x="6.63717949" y="17.722283" width="6.75661058" height="0.393683702"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

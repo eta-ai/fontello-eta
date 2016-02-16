@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'eta';
-  src: url('../font/eta.eot?62258670');
-  src: url('../font/eta.eot?62258670#iefix') format('embedded-opentype'),
-       url('../font/eta.woff?62258670') format('woff'),
-       url('../font/eta.ttf?62258670') format('truetype'),
-       url('../font/eta.svg?62258670#eta') format('svg');
+  src: url('../font/eta.eot?11570030');
+  src: url('../font/eta.eot?11570030#iefix') format('embedded-opentype'),
+       url('../font/eta.woff?11570030') format('woff'),
+       url('../font/eta.ttf?11570030') format('truetype'),
+       url('../font/eta.svg?11570030#eta') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'eta';
-    src: url('../font/eta.svg?62258670#eta') format('svg');
+    src: url('../font/eta.svg?11570030#eta') format('svg');
   }
 }
 */
@@ -72,3 +72,4 @@
 .icon-gym:before { content: '\e80f'; } /* '' */
 .icon-view:before { content: '\e810'; } /* '' */
 .icon-hotel:before { content: '\e811'; } /* '' */
+.icon-timeline:before { content: '\e812'; } /* '' */

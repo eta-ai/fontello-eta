@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>hotel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Blank-Slate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-108.000000, -5.000000)" fill="#FFFFFF">
+            <g id="hotel" sketch:type="MSLayerGroup" transform="translate(108.000000, 5.000000)">
+                <g id="Group" transform="translate(0.000000, 5.000000)" sketch:type="MSShapeGroup">
+                    <path d="M17.8217822,1.93069307 L17.8217822,5.89108911 L1.98019802,5.89108911 L1.98019802,0 L0,0 L0,11.8316832 L1.98019802,11.8316832 L1.98019802,7.87128713 L17.8217822,7.87128713 L17.8217822,11.7821782 L19.8019802,11.7821782 L19.8019802,1.93069307 L17.8217822,1.93069307 Z" id="Shape"></path>
+                    <path d="M7.55445545,3 L3.99009901,3 C3.44336634,3 3,3.44336634 3,3.99009901 L3,4.98019802 L3.99009901,4.98019802 L7.55445545,4.98019802 L8.54455446,4.98019802 L8.54455446,3.99009901 C8.54455446,3.44336634 8.10118812,3 7.55445545,3 L7.55445545,3 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

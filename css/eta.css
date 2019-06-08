@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'eta';
-  src: url('../font/eta.eot?94787451');
-  src: url('../font/eta.eot?94787451#iefix') format('embedded-opentype'),
-       url('../font/eta.woff2?94787451') format('woff2'),
-       url('../font/eta.woff?94787451') format('woff'),
-       url('../font/eta.ttf?94787451') format('truetype'),
-       url('../font/eta.svg?94787451#eta') format('svg');
+  src: url('../font/eta.eot?42978642');
+  src: url('../font/eta.eot?42978642#iefix') format('embedded-opentype'),
+       url('../font/eta.woff2?42978642') format('woff2'),
+       url('../font/eta.woff?42978642') format('woff'),
+       url('../font/eta.ttf?42978642') format('truetype'),
+       url('../font/eta.svg?42978642#eta') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'eta';
-    src: url('../font/eta.svg?94787451#eta') format('svg');
+    src: url('../font/eta.svg?42978642#eta') format('svg');
   }
 }
 */
@@ -55,24 +55,27 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-quiet:before { content: '\e800'; } /* '' */
-.icon-aisle:before { content: '\e801'; } /* '' */
-.icon-window:before { content: '\e802'; } /* '' */
-.icon-ontime:before { content: '\e803'; } /* '' */
+.icon-takeoff:before { content: '\e800'; } /* '' */
+.icon-landing:before { content: '\e801'; } /* '' */
+.icon-wifi:before { content: '\e802'; } /* '' */
+.icon-calendar1:before { content: '\e803'; } /* '' */
 .icon-calendar2:before { content: '\e804'; } /* '' */
-.icon-calendar1:before { content: '\e805'; } /* '' */
-.icon-wifi:before { content: '\e806'; } /* '' */
-.icon-landing:before { content: '\e807'; } /* '' */
-.icon-takeoff:before { content: '\e808'; } /* '' */
-.icon-seat:before { content: '\e809'; } /* '' */
-.icon-logo:before { content: '\e80a'; } /* '' */
-.icon-swimming:before { content: '\e80b'; } /* '' */
-.icon-proximity:before { content: '\e80c'; } /* '' */
-.icon-business-center:before { content: '\e80d'; } /* '' */
-.icon-loyalty:before { content: '\e80e'; } /* '' */
-.icon-gym:before { content: '\e80f'; } /* '' */
-.icon-view:before { content: '\e810'; } /* '' */
+.icon-ontime:before { content: '\e805'; } /* '' */
+.icon-aisle:before { content: '\e806'; } /* '' */
+.icon-window:before { content: '\e807'; } /* '' */
+.icon-seat:before { content: '\e808'; } /* '' */
+.icon-loyalty:before { content: '\e809'; } /* '' */
+.icon-business-center:before { content: '\e80a'; } /* '' */
+.icon-proximity:before { content: '\e80b'; } /* '' */
+.icon-swimming:before { content: '\e80c'; } /* '' */
+.icon-view:before { content: '\e80d'; } /* '' */
+.icon-gym:before { content: '\e80e'; } /* '' */
+.icon-logo:before { content: '\e80f'; } /* '' */
+.icon-quiet:before { content: '\e810'; } /* '' */
 .icon-hotel:before { content: '\e811'; } /* '' */
 .icon-timeline:before { content: '\e812'; } /* '' */
 .icon-desk:before { content: '\e813'; } /* '' */
 .icon-united-globe:before { content: '\e814'; } /* '' */
+.icon-departure:before { content: '\e815'; } /* '' */
+.icon-arrival:before { content: '\e816'; } /* '' */
+.icon-refundable:before { content: '\e817'; } /* '' */

@@ -20,3 +20,7 @@
 .icon-timeline:before { content: '\e812'; } /* '' */
 .icon-desk:before { content: '\e813'; } /* '' */
 .icon-united-globe:before { content: '\e814'; } /* '' */
+.icon-arrival:before { content: '\e815'; } /* '' */
+.icon-departure:before { content: '\e816'; } /* '' */
+.icon-on-time:before { content: '\e817'; } /* '' */
+.icon-refundable:before { content: '\e818'; } /* '' */

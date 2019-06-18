@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'eta';
-  src: url('../font/eta.eot?94177391');
-  src: url('../font/eta.eot?94177391#iefix') format('embedded-opentype'),
-       url('../font/eta.woff2?94177391') format('woff2'),
-       url('../font/eta.woff?94177391') format('woff'),
-       url('../font/eta.ttf?94177391') format('truetype'),
-       url('../font/eta.svg?94177391#eta') format('svg');
+  src: url('../font/eta.eot?28519334');
+  src: url('../font/eta.eot?28519334#iefix') format('embedded-opentype'),
+       url('../font/eta.woff2?28519334') format('woff2'),
+       url('../font/eta.woff?28519334') format('woff'),
+       url('../font/eta.ttf?28519334') format('truetype'),
+       url('../font/eta.svg?28519334#eta') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'eta';
-    src: url('../font/eta.svg?94177391#eta') format('svg');
+    src: url('../font/eta.svg?28519334#eta') format('svg');
   }
 }
 */
@@ -80,3 +80,4 @@
 .icon-departure:before { content: '\e816'; } /* '' */
 .icon-on-time:before { content: '\e817'; } /* '' */
 .icon-refundable:before { content: '\e818'; } /* '' */
+.icon-stops:before { content: '\e833'; } /* '' */

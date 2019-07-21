@@ -24,4 +24,7 @@
 .icon-departure:before { content: '\e816'; } /* '' */
 .icon-on-time:before { content: '\e817'; } /* '' */
 .icon-refundable:before { content: '\e818'; } /* '' */
+.icon-flight-times:before { content: '\e81a'; } /* '' */
+.icon-flight-landing-time:before { content: '\e81b'; } /* '' */
+.icon-flight-takeoff-time:before { content: '\e81c'; } /* '' */
 .icon-stops:before { content: '\e833'; } /* '' */

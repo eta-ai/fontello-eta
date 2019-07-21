@@ -372,7 +372,7 @@
     },
     {
       "uid": "6fc9a35030d0b5cb136e4857cfa7b53b",
-      "css": "flight-times",
+      "css": "flight-time",
       "code": 59418,
       "src": "custom_icons",
       "selected": true,
@@ -381,7 +381,7 @@
         "width": 1000
       },
       "search": [
-        "flight-times"
+        "flight-time"
       ]
     },
     {

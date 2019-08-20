@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'eta';
-  src: url('../font/eta.eot?26135251');
-  src: url('../font/eta.eot?26135251#iefix') format('embedded-opentype'),
-       url('../font/eta.woff2?26135251') format('woff2'),
-       url('../font/eta.woff?26135251') format('woff'),
-       url('../font/eta.ttf?26135251') format('truetype'),
-       url('../font/eta.svg?26135251#eta') format('svg');
+  src: url('../font/eta.eot?23794795');
+  src: url('../font/eta.eot?23794795#iefix') format('embedded-opentype'),
+       url('../font/eta.woff2?23794795') format('woff2'),
+       url('../font/eta.woff?23794795') format('woff'),
+       url('../font/eta.ttf?23794795') format('truetype'),
+       url('../font/eta.svg?23794795#eta') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'eta';
-    src: url('../font/eta.svg?26135251#eta') format('svg');
+    src: url('../font/eta.svg?23794795#eta') format('svg');
   }
 }
 */
@@ -84,3 +84,4 @@
 .icon-flight-landing-time:before { content: '\e81b'; } /* '' */
 .icon-flight-takeoff-time:before { content: '\e81c'; } /* '' */
 .icon-stops:before { content: '\e833'; } /* '' */
+.icon-uber:before { content: '\e83a'; } /* '' */

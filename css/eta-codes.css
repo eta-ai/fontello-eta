@@ -27,5 +27,8 @@
 .icon-flight-time:before { content: '\e81a'; } /* '' */
 .icon-flight-landing-time:before { content: '\e81b'; } /* '' */
 .icon-flight-takeoff-time:before { content: '\e81c'; } /* '' */
+.icon-grab:before { content: '\e81e'; } /* '' */
+.icon-expense:before { content: '\e81f'; } /* '' */
+.icon-policy:before { content: '\e820'; } /* '' */
 .icon-stops:before { content: '\e833'; } /* '' */
 .icon-uber:before { content: '\e83a'; } /* '' */
